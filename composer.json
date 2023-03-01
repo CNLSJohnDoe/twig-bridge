@@ -15,9 +15,15 @@
             "homepage": "https://symfony.com/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/CNLSJohnDoe/Twig.git"
+        }
+    ],
     "require": {
         "php": ">=5.3.3",
-        "twig/twig": "~1.13,>=1.13.1"
+        "twig/twig": "dev-main"
     },
     "require-dev": {
         "symfony/phpunit-bridge": "~2.7",
