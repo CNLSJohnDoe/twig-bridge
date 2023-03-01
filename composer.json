@@ -15,9 +15,6 @@
             "homepage": "https://symfony.com/contributors"
         }
     ],
-    "github-oauth": {
-        "github.com": "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"
-    },
     "repositories": [
         {
             "type": "git",
